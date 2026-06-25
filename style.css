@@ -79,9 +79,8 @@ section.imgFundo p {
     box-shadow: 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
 }
 iframe {
-  width: 100%;
-  max-width: 100%;
-  aspect-ratio: 16 / 9;
+  width: 60%;
+  aspect-ratio: 12 / 9;
   height: auto;
 }
 footer {
